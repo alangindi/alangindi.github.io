@@ -1,3 +1,12 @@
 h1 {
-  text-align: left;
+  text-align:left;
+}
+
+h3 .majors {
+  text-align:center;
+}
+
+h5 .media {
+  text-align:center;
+  color:gray;
 }
