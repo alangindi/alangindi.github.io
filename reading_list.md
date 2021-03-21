@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Reading List
+permalink: /readinglist/
 ---
 
 This is about eudcation
