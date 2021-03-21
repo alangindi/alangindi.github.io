@@ -28,7 +28,7 @@ twitter_username: olibarhoo
 github_username:  alangindi
 
 # Build settings
-theme: personal
+theme: minima
 plugins:
   - jekyll-feed
 
