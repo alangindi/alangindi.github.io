@@ -4,7 +4,7 @@ title: Reading List
 permalink: /readinglist/
 ---
 
-Below are some books, textbooks, and articles that I've found interesting.
+These are some books, textbooks, and articles that I've found interesting.
 
 Books:
 - Without Precedent

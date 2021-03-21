@@ -15,7 +15,6 @@ A couple of things that I enjoy doing:
 - 🏀 Basketball
 - ♟ Chess
 
-I love meeting interesting people! Contact me 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
