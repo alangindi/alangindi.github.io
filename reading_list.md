@@ -9,6 +9,7 @@ These are some books, textbooks, and articles that I've found interesting.
 Books:
 - Without Precedent
 - Zero to One
+- Irrational Predictability
 
 Textbooks: 
 - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares (Stephen Boyd)
