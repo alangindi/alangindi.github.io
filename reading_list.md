@@ -23,3 +23,4 @@ Articles:
 - [Innovation vs. Optimization](https://www.indexventures.com/perspectives/innovation-vs-optimization/)
 - [Convex and Concave Dispositions](https://vitalik.ca/general/2020/11/08/concave.html)
 - [Money, blockchains, and social scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
+- Introduction to Blockchain through Cryptoeconomics: [Part 1](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) - [Part 2](https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012)
